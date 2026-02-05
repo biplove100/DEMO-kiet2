@@ -7,6 +7,8 @@ export default function App() {
       <Text>Open up App.js to start working on your app!</Text>
       <Text>Changes you make will automatically reload.</Text>
       <Text>Shake your phone to open the developer menu.</Text>
+      <Text>Xin chào các bạn, mình là Kiet</Text>
+      <Text>Chúc các bạn một ngày tốt lành</Text>
       <StatusBar style="auto" />
     </View>
   );
