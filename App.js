@@ -9,6 +9,7 @@ export default function App() {
       <Text>Shake your phone to open the developer menu.</Text>
       <Text>Xin chào các bạn, mình là Kiet</Text>
       <Text>Chúc các bạn một ngày tốt lành</Text>
+      <Text>This is new Text on NEW features</Text>
       <StatusBar style="auto" />
     </View>
   );
