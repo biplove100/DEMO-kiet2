@@ -8,6 +8,7 @@ export default function App() {
       <Text>Changes you make will automatically reload.</Text>
       <Text>Shake your phone to open the developer menu.</Text>
       <Text>Xin chào các bạn, mình là Kiet</Text>
+      <Button title="Nhấn vào đây" onPress={() => alert('Bạn đã nhấn nút!')} />
       <Text>Chúc các bạn một ngày tốt lành</Text>
       <StatusBar style="auto" />
     </View>
